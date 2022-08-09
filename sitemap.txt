@@ -20,12 +20,12 @@ https://zaomengjun.github.io/archives/3afc68d7.html
 https://zaomengjun.github.io/archives/2378dcd7.html
 https://zaomengjun.github.io/live2d-widget-master/README.html
 https://zaomengjun.github.io/live2d-widget-master/waifu-tips.json
-https://zaomengjun.github.io/live2d-widget-master/demo/login.html
 https://zaomengjun.github.io/live2d-widget-master/demo/demo.html
 https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/README.html
+https://zaomengjun.github.io/live2d-widget-master/demo/login.html
 https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/waifu-tips.json
-https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/login.html
 https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/demo.html
+https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/login.html
 https://zaomengjun.github.io/
 https://zaomengjun.github.io/tags/QuickStart/
 https://zaomengjun.github.io/tags/java/

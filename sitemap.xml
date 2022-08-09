@@ -200,15 +200,6 @@
   </url>
   
   <url>
-    <loc>https://zaomengjun.github.io/live2d-widget-master/demo/login.html</loc>
-    
-    <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zaomengjun.github.io/live2d-widget-master/demo/demo.html</loc>
     
     <lastmod>2022-05-20</lastmod>
@@ -227,6 +218,15 @@
   </url>
   
   <url>
+    <loc>https://zaomengjun.github.io/live2d-widget-master/demo/login.html</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/waifu-tips.json</loc>
     
     <lastmod>2022-05-20</lastmod>
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/login.html</loc>
+    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/demo.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/demo.html</loc>
+    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/login.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
