@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/demo.html</loc>
+    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/login.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/login.html</loc>
+    <loc>https://zaomengjun.github.io/live2d-widget-master/live2d-widget-master/demo/demo.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -263,27 +263,6 @@
 
   
   <url>
-    <loc>https://zaomengjun.github.io/tags/QuickStart/</loc>
-    <lastmod>2022-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zaomengjun.github.io/tags/java/</loc>
-    <lastmod>2022-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zaomengjun.github.io/tags/idea/</loc>
-    <lastmod>2022-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://zaomengjun.github.io/tags/hello/</loc>
     <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,7 +277,28 @@
   </url>
   
   <url>
+    <loc>https://zaomengjun.github.io/tags/QuickStart/</loc>
+    <lastmod>2022-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zaomengjun.github.io/tags/java/</loc>
+    <lastmod>2022-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zaomengjun.github.io/tags/python/</loc>
+    <lastmod>2022-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zaomengjun.github.io/tags/idea/</loc>
     <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -335,14 +335,14 @@
   </url>
   
   <url>
-    <loc>https://zaomengjun.github.io/categories/%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://zaomengjun.github.io/categories/%E6%8C%87%E4%BB%A4/yaml/</loc>
     <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zaomengjun.github.io/categories/%E6%8C%87%E4%BB%A4/yaml/</loc>
+    <loc>https://zaomengjun.github.io/categories/%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
